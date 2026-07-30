@@ -6,6 +6,8 @@
 
 A aplicação combina uma **página de captura inofensiva** (como um formulário de registro de presença ou pesquisa) com um **Dashboard de Comando e Controle (SOC/GOC)** em tempo real. Durante treinos de engenharia social, o palestrante/instrutor pode projetar o painel flutuante e demonstrar o risco real do *Browser Fingerprinting* e da falta de higiene digital.
 
+Demonstração disponível em https://aescoladatatica.fun/OPSEC/ (link para preenchimento) e https://aescoladatatica.fun/OPSEC/setup.php (visualização dos registros).
+
 ---
 
 ## ⚡ Funcionalidades e Telemetria Capturada
@@ -33,15 +35,15 @@ Não é necessária uma infraestrutura complexa ou servidores de banco de dados 
 ### Execução em Desenvolvimento (Local)
 
 1. Clone ou baixe o repositório:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/Jonny-Marcos/DemOpSec.git
    cd DemOpSec
-   \`\`\`
+   ```
 
 2. Inicie o servidor embutido do PHP:
-   \`\`\`bash
+   ```bash
    php -S 0.0.0.0:8000
-   \`\`\`
+   ```
 
 3. **Acesse as páginas:**
    * **Formulário de Entrada:** \`http://<SEU-IP>:8000/index.php\` *(Gere o QR Code para este link)*
