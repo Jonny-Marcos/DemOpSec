@@ -1,3 +1,7 @@
+# DemOpSec 🛡️🔍
+
+> **Interactive OPSEC Awareness & Passive Browser Reconnaissance Demonstrator**
+
 **DemOpSec** é uma ferramenta de conscientização e treinamento em Segurança da Informação (OPSEC) projetada para demonstrar, de forma prática e visualmente impactante, o volume de metadados expostos silenciosamente por um dispositivo sempre que um usuário clica em um link inofensivo.
 
 A aplicação combina uma **página de captura inofensiva** (como um formulário de registro de presença ou pesquisa) com um **Dashboard de Comando e Controle (SOC/GOC)** em tempo real. Durante treinos de engenharia social, o palestrante/instrutor pode projetar o painel flutuante e demonstrar o risco real do *Browser Fingerprinting* e da falta de higiene digital.
