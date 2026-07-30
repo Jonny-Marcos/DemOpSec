@@ -6,7 +6,7 @@
 
 A aplicação combina uma **página de captura inofensiva** (como um formulário de registro de presença ou pesquisa) com um **Dashboard de Comando e Controle (SOC/GOC)** em tempo real. Durante treinos de engenharia social, o palestrante/instrutor pode projetar o painel flutuante e demonstrar o risco real do *Browser Fingerprinting* e da falta de higiene digital.
 
-Demonstração disponível em https://aescoladatatica.fun/OPSEC/ (link para preenchimento) e https://aescoladatatica.fun/OPSEC/setup.php (visualização dos registros).
+Demonstração disponível em https://aescoladatatica.fun/DemOpSec/ (link para preenchimento) e https://aescoladatatica.fun/OPSEC/setup.php (visualização dos registros).
 
 ---
 
