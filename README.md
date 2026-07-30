@@ -34,7 +34,7 @@ Não é necessária uma infraestrutura complexa ou servidores de banco de dados 
 
 1. Clone ou baixe o repositório:
    \`\`\`bash
-   git clone https://github.com/SEU-USUARIO/DemOpSec.git
+   git clone https://github.com/Jonny-Marcos/DemOpSec.git
    cd DemOpSec
    \`\`\`
 
